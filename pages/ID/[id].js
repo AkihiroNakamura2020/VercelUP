@@ -712,7 +712,7 @@ const handleClick = (e) => {
 
   if(auth.currentUser.email==ninja[0].mail){
     console.log('Success!')
-    router.push('/ID/'+ninja[0].userid+'/edit')
+    router.push('/ID/'+ninja[0].userid+'/Edit')
   }
 
   //router.push('/ID/'+ninja[0].userid+'/edit')

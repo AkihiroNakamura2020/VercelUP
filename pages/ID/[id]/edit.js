@@ -181,7 +181,7 @@ cardmargin:{
 },{ name: "MuiExample_Component" })//)
 
 
-export default function edit({ ninja }) {//{id}
+export default function Edit({ ninja }) {//{id}
 
   //console.log('abc')
   //if(!ninja[0]) return null
