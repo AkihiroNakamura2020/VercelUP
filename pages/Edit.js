@@ -56,7 +56,7 @@ const useStyles=makeStyles({
 },{ name: "MuiExample_Component" })//)
 
 
-export default function edit() {
+export default function Edit() {
   const [notes,setNotes]=useState([])//([])
   const classes=useStyles()
 
